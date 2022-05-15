@@ -1,2 +1,2 @@
 # portifolio
-Portifólio pessoal de projetos desenvolvidos.
+Portifólio pessoal de projetos desenvolvidos web.
