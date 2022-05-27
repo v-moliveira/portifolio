@@ -25,7 +25,7 @@ p {
 }
 
 .o {
-    background-image: url(./images/circle.png);
+    background-image: url(images/circle.png);
     background-position: center;
     background-size: 60%;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@ p {
 }
 
 .x {
-    background-image: url(./images/X.png);
+    background-image: url(images/X.png);
     background-position: center;
     background-size: 60%;
     background-repeat: no-repeat;

@@ -41,7 +41,7 @@ function updateSquares() {
         jogador = "<img src = 'images/circle.png' width='15px'>"
     }
     else {
-        jogador = "<img src = 'images/x.png' width='15px'>"
+        jogador = "<img src = 'images/X.png' width='15px'>"
     }
     vez.innerHTML = '<p> É a vez do Jogador ' + jogador + '</p>'
     squares.forEach((square) => {
