@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: rgb(250, 244, 216);
+    min-height: 400px;
+    min-width: 400px;
+}
+
+h1,
+p {
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    border: 1px solid gray;
+    display: inline-block;
+}
+
+.o {
+    width: 100px;
+    height: 100px;
+}
+
+.o {
+    background-image: url(images/circle.png);
+    background-position: center;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
+
+.x {
+    width: 100px;
+    height: 100px;
+}
+
+.x {
+    background-image: url(images/X.png);
+    background-position: center;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
