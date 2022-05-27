@@ -41,7 +41,7 @@ function updateSquares() {
         jogador = "<img src = 'images/circle.png' width='15px'>"
     }
     else {
-        jogador = "<img src = 'images/X.png' width='15px'>"
+        jogador = "<img src = 'images/xis.png' width='15px'>"
     }
     vez.innerHTML = '<p> É a vez do Jogador ' + jogador + '</p>'
     squares.forEach((square) => {
@@ -60,7 +60,7 @@ function resetGame() {
     let vez = document.getElementsByTagName("p")[0]
     let blockH3 = document.getElementsByTagName("h3")[0]
 
-    vez.innerHTML = "<p>É a vez do Jogador <img src='./images/circle.png' width='15px'></p>"
+    vez.innerHTML = "<p>É a vez do Jogador <img src='images/circle.png' width='15px'></p>"
     blockH3.innerHTML = "<h3></h3>"
 
 
